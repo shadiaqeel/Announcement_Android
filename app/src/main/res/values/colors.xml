@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#514def</color>
+    <color name="colorPrimaryDark">#251bc0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary2">#f60000</color>
+    <color name="colorPrimaryDark2">#ffcc0000</color>
+    <color name ="falseEnable">#aaaaaa</color>
+    <color name= "trueEnable">#ff4081</color>
+    <color name= "white">#f5efef</color>
+
+    <color name= "transparent">#3b050505</color>
+    <drawable name="selected">#1f000000</drawable>
+
+</resources>

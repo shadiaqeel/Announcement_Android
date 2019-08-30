@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+
+    android:descendantFocusability="blocksDescendants"
+    >
+
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/seleced_Item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:gravity="center_vertical"
+    android:paddingLeft="6dip"
+    android:textSize="20dp"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:background="@drawable/select"
+    >
+
+</TextView>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="false"
+        android:layout_marginLeft="16dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_delete"
+
+
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        />
+
+
+
+</RelativeLayout>
+

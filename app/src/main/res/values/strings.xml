@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Announcement</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password </string>
+    <string name="action_sign_in">LOGIN </string>
+    <string name="action_sign_in_short">LOGIN</string>
+    <string name="error_invalid_username">enter username</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="title_activity_broadcast">broadcast</string>
+
+
+</resources>
